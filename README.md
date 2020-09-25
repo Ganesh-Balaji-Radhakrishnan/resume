@@ -35,6 +35,7 @@ PixL stuios is a sister organisation of KineSens AB, which is a video production
 **Back-end:**
 
 * Django
+* Flask
 
 **Machine Learning / Data Science:**
 
