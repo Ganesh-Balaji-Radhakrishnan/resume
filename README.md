@@ -7,7 +7,7 @@ I'm self driven, creative and perseverant. I also hold a masters degree in Medic
 
 
 ## Experience:
-### Dunderdon AB (2020)
+### Dunderdog AB (2020)
 In mid 2020 I self-learnt front-end development course in Scrimba with a focus on Javascript and React JS. At the same time, I've worked with Dunderdog AB, mostly working with creating a web platform which provides a team profile and online learning platform for manual and automation testing, for thier sister organisation QA Engineers.
 
 ### Kinesens AB (2019 - 2020)
