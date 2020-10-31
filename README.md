@@ -8,13 +8,13 @@ I'm self driven, creative and perseverant. I also hold a masters degree in Medic
 
 ## Experience:
 ### Dunderdog AB (2020)
-In mid-2020 I self-learnt front-end development course in Scrimba with a focus on Javascript and React JS. At the same time, I've worked with Dunderdog AB, mostly working with creating a web platform which provides a team profile and online learning platform for manual and automation testing, for their sister organisation QA Engineers.
+Currently, I'm leveraging my design, research and development skills as a Front-end Developer for one of the leading Service Design companies in Stockholm. My team is well structured and the tasks are performed with agile methodology. Have been aware of software testing tools and practices, including CI, TDD and BDD. Core role - building a learning management system with the team for QA Testing.
 
 ### Kinesens AB (2019 - 2020)
-After my master's in Medical engineering as a continuation of my thesis, I co-founded a fitness-based start-up named Kinesens AB, which aims for a solution to prevent posture-related injured during weight training by analysing Kinematics tracking the vulnerable joints like Knee, hip and angle during squats and dead-lifts. My responsibilities included management, marketing & PR, and creating the technical requirement for the product.
+Helped to develop a solution to prevent posture-related injures during weight training by analysing Kinematics. Core role -  marketing & PR, creating website and creating the technical requirement for the product.
 
-### PixlStudios (2020)
-PixL studios is a sister organisation of KineSens AB, which is a video production company. It helps with live-streaming, creating VFX and animations for growing start-ups and other organisations.
+### Cooey Technologies (2016)
+Worked in a team to develop a web platform for a technology to identify and monitor the diabetic patients in India. Leveraged my skills in Front-end Development to build a reliable platform for the users to check and update their medical data. 
 
 
 # Technical skills:
@@ -26,17 +26,25 @@ PixL studios is a sister organisation of KineSens AB, which is a video productio
 
 **Front-end:**
 
-* HTML
+* HTML 5
 * CSS & Sass
-* Figma
+* JavaScript ES6
+* React Js
+
+**Design**
+
 * Adobe Photoshop
-* jQuery
-* React JS 
+* Adobe Illustrator
+* Adobe XD
+* Adobe Lightroom
+* Figma
 
-**Back-end:**
+**Agile tools**
 
-* Django
-* Flask
+* Atlassian-Jira
+* Asana
+* Miro
+* Azure DevOps
 
 **Machine Learning / Data Science:**
 
